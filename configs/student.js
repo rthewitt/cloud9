@@ -21,7 +21,7 @@ var vfsUrl = "/vfs";
 
 var port = argv.p || process.env.PORT || 3131;
 //var host = argv.l || process.env.IP || "localhost";
-var host = 0.0.0.0;
+var host = '0.0.0.0';
 
 var config = [
     {
